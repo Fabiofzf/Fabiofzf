@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=++Welcome,+To+My+Profile!++)](https://git.io/typing-svg)
 #
 <p align="center">
-  <img src=".github/workflows/gif.gif" />
+ <picture>
+
+  <source media="(prefers-color-scheme: dark)" srcset="gif.gif">
+  <img alt="Welcome to My Profile" src="Captura de tela 2025-03-16 220346">
+</picture>
 </p>
 </h3>
 
