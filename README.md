@@ -29,7 +29,7 @@ Procuro aproveitar as oportunidades para aprender, evoluir e me desenvolver, tan
 
 <br clear="both">
 
-[![Pacman Dev](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fabiofzf&theme=github_dark)](https://github.com/Fabiofzf)
+![Snake Animation](https://raw.githubusercontent.com/Fabiofzf/Fabiofzf/output/github-contribution-grid-snake-dark.svg)
 
 #
 
