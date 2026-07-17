@@ -2,7 +2,7 @@
 #
 <p align="center">
 
-<img src="gif.gif" alt="Welcome to My Profile" align="center">
+<img alt="Welcome to My Profile" src=".github/workflows/estatigo.png.png">
 
 <p align="left">
 Hi! I'm Fábio Ferraz, a Computer Science student at the Federal University of Paraíba (UFPB). I am highly interested in Artificial Intelligence and Computer Vision, seeking to apply these concepts to the development of intelligent solutions and image and data processing.
