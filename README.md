@@ -4,7 +4,7 @@
  <picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="gif.gif">
-  <img alt="Welcome to My Profile" src="estatico.png.png">
+  <img alt="Welcome to My Profile" src="estatico.png">
 </picture>
 </p>
 </h3>
