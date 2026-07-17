@@ -2,7 +2,7 @@
 #
 <p align="center">
 
-<img alt="Welcome to My Profile" src=".github/workflows/gif.gif">
+<img alt="Welcome to My Profile" src=".github/workflows/gif5.gif">
 
 <p align="left">
 Hi! I'm Fábio Ferraz, a Computer Science student at the Federal University of Paraíba (UFPB). I am highly interested in Artificial Intelligence and Computer Vision, seeking to apply these concepts to the development of intelligent solutions and image and data processing.
@@ -29,7 +29,7 @@ Hi! I'm Fábio Ferraz, a Computer Science student at the Federal University of P
 
 
 <div align="left">
-  <h3 align="left">My Conttats:</h3>
+  <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/fabioferrazf/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" /></a><a href="mailto:fabio.ferraz@academico.ufpb.br" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Gmail" /></a>
 </div>
 <br clear="both">
