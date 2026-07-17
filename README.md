@@ -1,15 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=++Welcome,+To+My+Profile!++)](https://git.io/typing-svg)
 #
 <p align="center">
- <picture>
 
-  <source media="(prefers-color-scheme: dark)" srcset="gif.gif">
-  <img alt="Welcome to My Profile" src="estatico.png">
-</picture>
-</p>
-</h3>
+<img src="gif.gif" alt="Welcome to My Profile" align="center">
 
-#
 <p align="left">
 Hi! I'm Fábio Ferraz, a Computer Science student at the Federal University of Paraíba (UFPB). I am highly interested in Artificial Intelligence and Computer Vision, seeking to apply these concepts to the development of intelligent solutions and image and data processing.
 
