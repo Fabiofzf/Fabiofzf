@@ -33,9 +33,3 @@ Hi! I'm Fábio Ferraz, a Computer Science student at the Federal University of P
 ![Snake Animation](https://raw.githubusercontent.com/Fabiofzf/Fabiofzf/output/github-contribution-grid-snake-dark.svg)
 
 #
-
-###
-<p align="center">
-<i>"A tecnologia move o mundo?"</i> 
-</p>
-
